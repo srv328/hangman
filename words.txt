@@ -1,0 +1,4 @@
+color:red blue green yellow
+fruit:apple banana orange pear
+animal:dog cat elephant tiger
+country:russia usa china india

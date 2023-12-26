@@ -1,0 +1,5 @@
+﻿  gallows.cpp
+C:\Users\shevelev.rv\Desktop\FEFU\gallows\gallows.cpp(122,34): warning C4101: e: неиспользованная локальная переменная
+  gallows.vcxproj -> C:\Users\shevelev.rv\Desktop\FEFU\gallows\x64\Debug\gallows.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
